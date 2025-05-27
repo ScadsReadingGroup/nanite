@@ -1,2 +1,2 @@
 # nanite
-An attempt at a minimal github page from scratch
+An attempt at a minimal ('nano') github page from scratch.
