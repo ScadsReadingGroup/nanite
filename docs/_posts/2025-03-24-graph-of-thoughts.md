@@ -2,9 +2,7 @@
 layout: post
 title: Graph of Thoughts
 date: 2025-03-14 17:45
-description: This post summarizes the paper "Graph of Thoughts"
 tags: reasoning, MCTS, self-refine
-categories: paper-summary
 ---
 
 
