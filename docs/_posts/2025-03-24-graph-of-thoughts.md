@@ -2,7 +2,7 @@
 layout: post
 title: Graph of Thoughts
 date: 2025-03-14 17:45
-tags: reasoning, MCTS, self-refine
+categories: reasoning MCTS self-refine
 ---
 
 
